@@ -4,7 +4,7 @@ A modern Smart Attendance Management System built with a clean UI and powerful f
 
 🔗 Live Demo: https://smart-attendance-manager-gamma.vercel.app/
 
-🔗 GitHub Repo: https://github.com/Kondaiah29/smart-attendance-manager
+🔗 GitHub Repo: https://github.com/Kondaiah18/smart-attendance-manager
 
 🚀 Overview
 
