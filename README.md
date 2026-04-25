@@ -94,10 +94,6 @@ smart-attendance-manager/
 
 ⚙️ Installation & Setup
 
-1️⃣ Clone the Repository
-
-git clone https://github.com/perugukondaiah1769-blip/smart-attendance-manager.git
-
 cd smart-attendance-manager
 
 2️⃣ Install Dependencies
